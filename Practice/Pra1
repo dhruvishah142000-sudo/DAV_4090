@@ -1,1 +1,14 @@
+#WAP FOR SWAPPING OF VALUE OF VARIABLE.
+
+n1 = int(input("Enter a value : "))
+n2 = int(input("Enter a value : "))
+
+n3 = n1
+n1 = n2
+n2 - n3
+
+print("After Swapping value n1 : ",n1)
+print("After Swapping value n2 : ",n3)
+
+
 
